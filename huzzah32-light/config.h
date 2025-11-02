@@ -1,8 +1,8 @@
-#define IO_USERNAME  "methio"
-#define IO_KEY       "aio_giqv83kW2b25N5yH9OwU5dthwYh1"
+#define IO_USERNAME  "username"
+#define IO_KEY       "apiKey"
 
-#define WIFI_SSID "thomaswifi"
-#define WIFI_PASS "thomaswifi"
+#define WIFI_SSID "wifiName"
+#define WIFI_PASS "wifiPassword"
 
 #include "AdafruitIO_WiFi.h"
 
