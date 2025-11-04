@@ -54,7 +54,7 @@ alt="youtube demo video" width="400" height="300" border="10" /></a>
 
 #### Moodboard
 
-![figma moodboard](images/moodboard.png)
+![figma moodboard]()
 
 #### User flow 
 [See the user flow in figma↗](https://www.figma.com/design/vJZb0jIlyBSZZtqP1hdXyH/Assignment-designing-with-web-demo?node-id=0-1&t=i6oES4CvV3SZhfUw-1)
