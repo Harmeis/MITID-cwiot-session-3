@@ -44,10 +44,10 @@ Create a subfolder for each project iteration.
 ![schematic view](Schematic view.HEIC)
 
 #### Photographs
-Youtube video of the prototype lerping between colors
+Youtube video of the prototype measuring the luminosity
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Rb1v3GvMv4M
-" target="_blank"><img src="http://img.youtube.com/vi/Rb1v3GvMv4M/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Rb1v3GvMv4M](https://youtube.com/shorts/B4dHM_EmBKk
+" target="_blank"><img src="images/thumbnail.png" 
 alt="youtube demo video" width="400" height="300" border="10" /></a>
 
 ### DWW
